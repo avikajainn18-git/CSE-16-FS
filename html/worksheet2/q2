@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head> <title> Question2</title></head>
+<body align="center"> 
+    <table border="1"> <!--Table with a border size of 1-->
+  <tr> <!--Table Row-->
+    <th>Course</th> <!--Table Heading-->
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>HTML</td> <!--Table Data stored in rows-->
+    <td>3 Weeks</td>
+  </tr>
+</table>
+
+</body>
+</html>
