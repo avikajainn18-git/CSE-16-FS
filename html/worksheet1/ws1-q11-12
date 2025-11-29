@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head> <title> Worksheet questions</title></head>
+<body> 
+    <!--This is the beginning of thr code-->
+    <b> bold</b><!--This text is bold--><br>
+    <i> Italic</i><!--this text is italic--><br>
+    <u> Underline</u> <!--this text is Underlines--><br>
+    <mark> Mark</mark><!--this text is highlighted--><br>
+    <h4> &copy; &amp; &lt; &gt;</h4><br>
+    <h3> H<sub>2</sub>O</h3>
+    <h3> 2<sup> 2</sup> is 4</h3>
+
+</body>
+</html>
