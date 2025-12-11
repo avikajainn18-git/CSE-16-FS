@@ -1,0 +1,40 @@
+body{ 
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+.block-menu a{
+    display: block;
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    margin: 7px 0;
+    text-decoration-style:wavy;
+}
+h1{
+    text-align: center;
+}
+.inline-menu a{
+    display: inline;
+    background-color: rgb(236, 96, 208);
+    color: black;
+    padding: 10px 15px;
+    margin: 7px;
+    text-decoration: underline;
+}
+.inline-block-menu a{
+    display: inline-block;
+    background-color: rgb(186, 113, 24);
+    color: black;
+    padding: 10px 15px;
+    margin: 7px 0;
+    text-decoration: underline;
+}
+.float-menu a{
+    float: left;
+    background-color: green;
+    color: black;
+    padding: 10px 15px;
+    margin: 7px 0;
+    text-decoration: underline;
+}
